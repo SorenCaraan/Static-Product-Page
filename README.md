@@ -25,3 +25,7 @@ have
   - The page should be fully static
   - You should lay out your content using < div > tags and position them as you see fit. The number of columns and exact layout is up to you.
   - Proper implementation of the tags and contents is very important. Think about exceptional cases when the pictures cannot be loaded, etc
+
+## Web Page Preview
+
+![StaticProductPage.png](StaticProductPage.png)
